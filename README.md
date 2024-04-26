@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sushant Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg">
